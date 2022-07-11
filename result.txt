@@ -1,0 +1,10 @@
+ roll : 1 avarage marks 60 
+ roll : 2 avarage marks 79 
+ roll : 3 avarage marks 78 
+ roll : 4 avarage marks 83 
+ roll : 5 avarage marks 83 
+ roll : 6 avarage marks 78 
+ roll : 7 avarage marks 55 
+ roll : 8 avarage marks 82 
+ roll : 9 avarage marks 50 
+ roll : 10 avarage marks 57 

@@ -1,0 +1,2 @@
+n1 is 1 and n2 is 15 
+ sum is 16
