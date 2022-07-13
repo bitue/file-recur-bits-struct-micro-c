@@ -53,10 +53,6 @@ int main (){
     fclose(fp_b);
 
 
-    //for(int i=0 ; i<10 ; i++){
-     //   printf("roll :%d math %d bangle %d \n", arr[i].roll, arr[i].math, arr[i].bangla);
-    // }
-
     fp_r =fopen("result.txt", "w");
     for(int i=0 ; i<10 ; i++){
         fprintf(fp_r," roll : %d avarage marks %d \n", arr[i].roll , (arr[i].math + arr[i].bangla) /2) ;
@@ -65,10 +61,6 @@ int main (){
     fclose(fp_r);
 
     return 0;
-
-
-
-
 
 
 
