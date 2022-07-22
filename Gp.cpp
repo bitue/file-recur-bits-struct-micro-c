@@ -4,19 +4,19 @@ using namespace std ;
 
 int main (){
 
-  long long  int x , y , k ;
+   long long int  x , y , k ;
 
     cin>>x>>y >>k ;
 
-   long long int co =0 ;
 
-    for(int i=x ; i<=y ; i++){
-        //int temp = i ;
-        if(i % k ==0) {
-           co++;
-        }
+    if(x% k ==0) {
+      long long  int res = y/k -x/k +1 ;
+        cout<<res ;
+    }
+    else {
+      long long  int res = y/k -x/k ;
+        cout<<res;
     }
 
-    cout<<co;
 
 }
